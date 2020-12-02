@@ -1,0 +1,7 @@
+md5: fc5243d597342286b8b51db8f58a44aa
+outs:
+- md5: d463ba41e49011f510bbc0ea5224a169
+  path: ratings.csv
+  cache: true
+  metric: false
+  persist: false
